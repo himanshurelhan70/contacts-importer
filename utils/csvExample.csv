@@ -1,0 +1,9 @@
+email,firstName,lastName,phone,company,jobTitle
+john.doe@example.com,John,Doe,+1-555-0101,Example Corp,Software Engineer
+jane.smith@techstart.io,Jane,Smith,+1-555-0102,TechStart,Product Manager
+bob.wilson@consulting.com,Bob,Wilson,+44-20-7946-0958,Consulting Ltd,Senior Consultant
+alice.brown@innovation.de,Alice,Brown,+49-30-12345678,Innovation GmbH,CTO
+carlos.garcia@startup.es,Carlos,Garcia,+34-91-123-4567,Startup Spain,Founder
+maria.rodriguez@enterprise.fr,Maria,Rodriguez,+33-1-42-86-83-26,Enterprise France,VP Sales
+david.kim@technology.kr,David,Kim,+82-2-123-4567,Technology Korea,Lead Developer
+sarah.johnson@solutions.ca,Sarah,Johnson,+1-416-555-0199,Solutions Inc,Business Analyst
