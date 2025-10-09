@@ -1,0 +1,66 @@
+[
+  {
+    "email": "john.doe@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "+1-555-0101",
+    "company": "Example Corp",
+    "jobTitle": "Software Engineer"
+  },
+  {
+    "email": "jane.smith@techstart.io",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phone": "+1-555-0102",
+    "company": "TechStart",
+    "jobTitle": "Product Manager"
+  },
+  {
+    "email": "bob.wilson@consulting.com",
+    "firstName": "Bob",
+    "lastName": "Wilson",
+    "phone": "+44-20-7946-0958",
+    "company": "Consulting Ltd",
+    "jobTitle": "Senior Consultant"
+  },
+  {
+    "email": "alice.brown@innovation.de",
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "phone": "+49-30-12345678",
+    "company": "Innovation GmbH",
+    "jobTitle": "CTO"
+  },
+  {
+    "email": "carlos.garcia@startup.es",
+    "firstName": "Carlos",
+    "lastName": "Garcia",
+    "phone": "+34-91-123-4567",
+    "company": "Startup Spain",
+    "jobTitle": "Founder"
+  },
+  {
+    "email": "maria.rodriguez@enterprise.fr",
+    "firstName": "Maria",
+    "lastName": "Rodriguez",
+    "phone": "+33-1-42-86-83-26",
+    "company": "Enterprise France",
+    "jobTitle": "VP Sales"
+  },
+  {
+    "email": "david.kim@technology.kr",
+    "firstName": "David",
+    "lastName": "Kim",
+    "phone": "+82-2-123-4567",
+    "company": "Technology Korea",
+    "jobTitle": "Lead Developer"
+  },
+  {
+    "email": "sarah.johnson@solutions.ca",
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "phone": "+1-416-555-0199",
+    "company": "Solutions Inc",
+    "jobTitle": "Business Analyst"
+  }
+]
